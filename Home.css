@@ -1,0 +1,117 @@
+
+
+body{
+    background-color: black;
+    /*rgb(142, 215, 238);*/
+    font-family: 'Montserrat','Tatsam Bengali Rnd';
+    text-align: center;
+    border: 10px;
+    margin: 20px;
+    border-radius: 20px;
+    padding: 50px 20px 50px 20px;
+}
+
+    
+#intro{
+    color: #FF6500;
+    font-size: 25px;
+    float: right;
+    text-align: right;
+    
+}
+
+.myself{
+    text-align: center;
+    font-family: 'Kaushan Script', cursive;
+    color:#FF6500 ;
+    font-size: 55px;
+    margin-top: 80px;
+    clear: both;
+}
+.whatlove1 h3{
+    font-family: 'Montserrat';
+    color:#FF6500;
+    font-size: 45px;
+    text-align: center;
+    clear: both;
+    
+}
+.whatlove1 h3 hr{
+    color:#FF6500;
+    padding: 20px;
+    border-radius: 20%;
+    clear: both;
+}
+.Designer-bro{
+    float: left;
+    height: 500px;
+    width: 500px;
+}
+
+
+#design1{
+    font-family: 'Kaushan Script', 'cursive';
+    color:#FF6500;
+    float: right;
+    text-align:right;
+    font-size: 55px;
+    
+}
+ .design{
+    font-family: 'Montserrat';
+    color:#FF6500;
+    float: right;
+    text-align: right;
+    font-size: 25px;
+
+
+}
+
+
+
+button{
+ 
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: 'Montserrat';
+    font-size: 25px;
+    border: transparent;
+    padding: 5px 5px;
+    margin-top: 10px;
+    float: left;
+    
+
+}
+button a{
+    color: #FF6500;
+    text-decoration: none;
+    
+
+}
+
+a:hover{
+   
+
+    color: black;
+    background-color: #FF6500;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    transition: all 0.7s ease;
+    cursor: pointer;
+    
+
+
+
+}
+.blog{
+    text-indent: 80px;
+    background-color: #FF6500;
+    font-family: 'Montserrat', 'Goomti', 'Siyam Rupali';
+    text-align: justify;
+    border: 10px;
+    margin: 20px;
+    border-radius: 20px;
+    padding: 50px 20px 50px 20px;
+
+}
